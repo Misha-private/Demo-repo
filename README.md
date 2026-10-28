@@ -1,8 +1,1 @@
-# Demo
-
-Some description!!
-
-
-# Subdemo
-
-More description
+A standalone Google Colab notebook illustrating the construction, implementation, and numerical verification of the multigrid graph-filtering methodology is maintained in a companion GitHub repository [repository URL]. The notebook is provided as a developmental research resource and may be updated as additional experiments and capabilities are introduced. The numerical results reported in this manuscript correspond to the methodology and experiments described herein.
